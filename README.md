@@ -1,21 +1,3 @@
-
-Certainly! Below is a basic template for a README file for a Node.js project on GitHub. Remember to customize it with specific information about your project.
-
-markdown
-Copy code
-# Project Name
-
-[Project Description]
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 Clone the repository:
