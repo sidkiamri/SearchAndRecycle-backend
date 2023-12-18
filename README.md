@@ -23,7 +23,7 @@ Node.js
 
 
 Contributing
-If you'd like to contribute to this project, follow these steps:
+If you would like to contribute to this project, follow these steps:
 
 Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name.
